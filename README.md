@@ -2,7 +2,7 @@
 Task text [here](https://github.com/avito-tech/mi-trainee-task)
 ## API Methods
 ### GET /generate
-Generates new secret and returns `key`
+Generates new secret and returns `{KEY}`
 Request body
 ```
 {  
@@ -21,7 +21,7 @@ Returns secret text
 Request body
 ```
 {
-    "code" : "newcode123"
+    "code" : "secret code"
 }
 ```
 Response
