@@ -1,5 +1,5 @@
 ## Test task with fastAPI
-Task text [here](github.com/avito-tech/mi-trainee-task)
+Task text [here](https://github.com/avito-tech/mi-trainee-task)
 ## API Methods
 ### GET /generate
 Generates new secret and returns `key`
