@@ -13,7 +13,7 @@ Request body
 Response and status `201 Created`
 ```
 {
-    "key": "afEJseO22s5m3CzUSuhZea6h_s_1Fp1BEmCbfHo8YnA"
+    "key": "{KEY}"
 }
 ```
 ### GET /secrets/{KEY}
